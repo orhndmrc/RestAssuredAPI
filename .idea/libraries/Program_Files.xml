@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Program Files">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../Program Files" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/json-path-4.3.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/json-schema-validator-4.3.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/rest-assured-4.3.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/rest-assured-common-4.3.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/xml-path-4.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/json-path-4.3.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/json-schema-validator-4.3.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/rest-assured-4.3.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/rest-assured-common-4.3.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/xml-path-4.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="json-path-4.3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/json-path-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/json-schema-validator-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/kotlin-extensions-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/rest-assured-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/scala-support-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/spring-mock-mvc-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/spring-web-test-client-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/xml-path-4.3.1.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/json-path-4.3.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/json-schema-validator-4.3.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/rest-assured-4.3.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/rest-assured-common-4.3.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/xml-path-4.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/json-path-4.3.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/json-schema-validator-4.3.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/rest-assured-4.3.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/rest-assured-common-4.3.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/Java/RestAssured/docs/xml-path-4.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
