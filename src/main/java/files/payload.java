@@ -47,4 +47,9 @@ public class payload {
                     "  ]\n" +
                     "}";
     }
+    public static String AddPerson(String name, String job){
+            return "\"name\":\""+name+"\",\n" +
+                    "    \"job\":\""+job+"\"";
+    }
+
 }
